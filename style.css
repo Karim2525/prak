@@ -1,0 +1,11 @@
+
+
+
+.h_size{
+    font-size: 21px;
+}
+
+a:link, :hover, :active, :visited{
+    color: black;
+    border-bottom: 0ch;
+}
