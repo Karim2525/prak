@@ -1,5 +1,12 @@
+.pbanner{
+    background: no-repeat left/cover url(images/bg1.png);
+    height: 787px;;
+    color: rgb(255, 255, 255);
+}
 
-
+body{
+    background-repeat: no-repeat;
+}
 
 .h_size{
     font-size: 21px;
